@@ -53,6 +53,24 @@ code {
   background: linear-gradient(135deg, #ff5722, #e64a19);
 }
 
+.initialPageButton {
+  width: 240px;
+  padding: 5px;
+  background: linear-gradient(135deg, #ff9800, #ff5722);
+  color: black;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.initialPageButton:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #ff5722, #e64a19);
+}
+
 .meals {
   display: flex;
   flex-wrap: wrap;
@@ -170,6 +188,14 @@ code {
   background-color: #ff9800;
   margin: 10px auto;
   border-radius: 3px;
+}
+
+.category{
+  text-align: center;
+  color: #ff9800;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 0px;
 }
 
 @keyframes fadeIn {
