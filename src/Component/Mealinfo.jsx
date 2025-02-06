@@ -22,7 +22,7 @@ const Mealinfo = () => {
      <div className='info'>
         <h1>Recipe Detail</h1>
         <button>{info.strMeal}</button>
-        <h3>Intruction's</h3>
+        <h3>Instruction's</h3>
         <p>{info.strInstructions}</p>
      </div>
     </div>
