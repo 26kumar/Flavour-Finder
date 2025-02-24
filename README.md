@@ -1,5 +1,7 @@
 # Flavour Finder 🍽️
 
+Try out the project - https://flavour-finder-opal.vercel.app/
+
 Flavour Finder is a sleek and interactive recipe application that helps users discover and explore various recipes using TheMealDB API. Built with modern web technologies, it provides an engaging user experience with a beautiful dark-themed UI.
 GET RECIPES FRO MORE THAN 100+ DISHES.
 
